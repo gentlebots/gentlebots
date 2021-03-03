@@ -10,3 +10,4 @@ Gentlebots team is composed of two universities and is focused on software devel
 - [Stage1] GPSR (Clean up or go, get it at random)
 - [Stage2] Set the table (Rulebooks 2017–2019)
 - [Stage2] Storing Groceries (Rulebooks 2017–2019)
+- [How it works in another challenges!](https://dev.to/yosuke/robocup-simulation-league-is-accepting-your-challenge-for-free-1g66)
