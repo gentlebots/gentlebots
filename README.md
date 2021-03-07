@@ -4,6 +4,9 @@ Gentlebots team is composed of two universities and is focused on software devel
 # Interesting links
 [Robocup@Home rulebooks](https://athome.robocup.org/rules/)
 
+# Roadmap
+Download [here](https://github.com/gentlebots/gentlebots/raw/main/content/RoadmapRobocup2021.pdf) the current Gentlebots Robocup2021 roadmap.
+
 # Robocup2021 Info
 - [Stage1] Go, get it! (Rulebooks 2010–2011)
 - [Stage1] Clean up (Rulebooks 2012–2013)
