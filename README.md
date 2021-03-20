@@ -5,15 +5,10 @@ Gentlebots team is composed of two universities and is focused on software devel
 1. [TIAGo in Robocup2021 world. A LXD Container](https://github.com/gentlebots/gb_robots)
 
 # Interesting links
-[Robocup@Home rulebooks](https://athome.robocup.org/rules/)
+[Robocup@Home challenge site](https://athome.robocup.org/home-virtual-2021/)
 
 # Last Roadmap
 Download [here](https://github.com/gentlebots/gentlebots/raw/main/content/RoadmapRobocup2021.pdf) the current Gentlebots Robocup2021 roadmap.
 
-# Robocup2021 Info
-- [Stage1] Go, get it! (Rulebooks 2010–2011)
-- [Stage1] Clean up (Rulebooks 2012–2013)
-- [Stage1] GPSR (Clean up or go, get it at random)
-- [Stage2] Set the table (Rulebooks 2017–2019)
-- [Stage2] Storing Groceries (Rulebooks 2017–2019)
-- [How it works in another challenges!](https://dev.to/yosuke/robocup-simulation-league-is-accepting-your-challenge-for-free-1g66)
+# Robocup2021 Rulebook
+- [1st Draft](https://okdhryk.github.io/robocup2020dspl-sumulation/Rulebook.pdf)
