@@ -1,0 +1,33 @@
+repositories:
+  plansys2/ros2_planning_system_examples:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/ros2_planning_system_examples.git
+    version: master
+  plansys2/ros2_planning_system:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/ros2_planning_system
+    version: master
+  Gentlebots/ros2_knowledge_graph:
+    type: git
+    url: https://github.com/fmrico/ros2_knowledge_graph.git
+    version: master
+  Gentlebots/rqt_cascade_hfsm:
+    type: git
+    url: https://github.com/gentlebots/rqt_cascade_hfsm.git
+    version: main
+  Gentlebots/gb_manipulation:
+    type: git
+    url: https://github.com/gentlebots/gb_manipulation.git
+    version: main
+  Gentlebots/gb_navigataion:
+    type: git
+    url: https://github.com/gentlebots/gb_navigation.git
+    version: main
+  Gentlebots/go_get_it:
+    type: git
+    url: https://github.com/gentlebots/go_get_it.git
+    version: main
+  Gentlebots/clean_up:
+    type: git
+    url: https://github.com/gentlebots/clean_up.git
+    version: main
