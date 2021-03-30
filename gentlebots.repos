@@ -31,3 +31,7 @@ repositories:
     type: git
     url: https://github.com/gentlebots/clean_up.git
     version: main
+  Gentlebots/spatio_temporal_voxel_layer:
+    type: git
+    url: https://github.com/jginesclavero/spatio_temporal_voxel_layer.git
+    version: ros2
