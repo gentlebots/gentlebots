@@ -35,3 +35,11 @@ repositories:
     type: git
     url: https://github.com/jginesclavero/spatio_temporal_voxel_layer.git
     version: ros2
+  cascade_lifecycle:
+    type: git
+    url: https://github.com/fmrico/cascade_lifecycle.git
+    version: foxy-devel
+  Deep_Object_Pose:
+    type: git
+    url: https://github.com/gentlebots/Deep_Object_Pose.git
+    version: ros2

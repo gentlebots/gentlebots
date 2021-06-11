@@ -1,0 +1,29 @@
+repositories:
+  deps/aruco_ros:
+    type: git
+    url: https://github.com/pal-robotics/aruco_ros.git
+    version: melodic-devel
+  deps/camera_info_manager_py:
+    type: git
+    url: https://github.com/ros-perception/camera_info_manager_py.git
+    version: master
+  deps/rosparam_shortcuts:
+    type: git
+    url: https://github.com/PickNikRobotics/rosparam_shortcuts.git
+    version: melodic-devel
+  manipulation_demos:
+    type: git
+    url: https://github.com/gentlebots/manipulation_demos.git
+    version: main
+  moveit_ros:
+    type: git
+    url: https://github.com/jginesclavero/moveit_ros.git
+    version: melodic-devel-robocup
+  tiago_pkgs/simple_grasping_action:
+    type: git
+    url: https://github.com/pal-robotics/simple_grasping_action.git
+    version: master
+  tiago_pkgs/tiago_tutorials:
+    type: git
+    url: https://github.com/gentlebots/tiago_tutorials.git
+    version: kinetic-devel
