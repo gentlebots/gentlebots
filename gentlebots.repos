@@ -47,5 +47,7 @@ repositories:
     type: git
     url: https://github.com/gentlebots/gb_common.git
     version: main    
-    
-    
+  Gentlebots/gb_attention:
+    type: git
+    url: https://github.com/IntelligentRoboticsLabs/gb_attention.git
+    version: master 
