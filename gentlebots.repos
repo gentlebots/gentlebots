@@ -43,3 +43,9 @@ repositories:
     type: git
     url: https://github.com/gentlebots/Deep_Object_Pose.git
     version: ros2
+  Gentlebots/gb_common:
+    type: git
+    url: https://github.com/gentlebots/gb_common.git
+    version: main    
+    
+    
