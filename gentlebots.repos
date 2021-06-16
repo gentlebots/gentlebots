@@ -19,7 +19,7 @@ repositories:
     type: git
     url: https://github.com/gentlebots/gb_manipulation.git
     version: main
-  Gentlebots/gb_navigataion:
+  Gentlebots/gb_navigation:
     type: git
     url: https://github.com/gentlebots/gb_navigation.git
     version: main
